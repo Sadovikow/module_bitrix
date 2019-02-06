@@ -1,0 +1,3 @@
+
+#global_menu_reds_corporatelight .adm-main-menu-item-icon{background: url("../../images/reds.emptyd7/reds_bitrix.png") no-repeat center; opacity: .9;}
+#global_menu_red_corporatelight.adm-main-menu-item-active .adm-main-menu-item-icon, #global_menu_redcode_corporatelight:hover .adm-main-menu-item-icon{opacity: 1;}
